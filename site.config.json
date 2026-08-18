@@ -1,0 +1,26 @@
+{
+  "repo": "wims-style",
+  "siteName": "Wim Style",
+  "logoText": "style",
+  "logoPrefix": "wim",
+  "tagline": "Tagline Wim Style",
+  "description": "Deskripsi meta Wim Style.",
+  "ogTitle": "Judul OG<br>untuk Wim Style",
+  "ogSubtitle": "Subtitle OG singkat dan informatif.",
+  "category": "style",
+  "categoryLabel": "Style",
+  "parent": "wims",
+  "children": [],
+  "related": [
+    "wims-selebritas",
+    "wims-living"
+  ],
+  "brand": {
+    "accent": "#f43f5e",
+    "accent2": "#e11d48"
+  },
+  "giscus": {
+    "repoId": "REPO_ID",
+    "categoryId": "CATEGORY_ID"
+  }
+}
