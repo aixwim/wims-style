@@ -3,6 +3,8 @@ title: "Tren Fashion yang Sedang Populer Saat Ini"
 date: "2026-08-18"
 category: "Style"
 excerpt: "Mengenal tren fashion terkini dari warna berani, pakaian berukuran longgar, hingga gaya multifungsi, plus tips memadukannya untuk penampilan sehari-hari."
+meta_title: "Tren Fashion yang Sedang Populer Saat Ini"
+meta_description: "Simak tren fashion terkini, dari warna berani, pakaian longgar, hingga gaya multifungsi, plus tips memadukannya untuk penampilan sehari-hari."
 tags: ["tren fashion", "gaya", "pakaian", "penampilan"]
 ---
 

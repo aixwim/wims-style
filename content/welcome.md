@@ -3,6 +3,8 @@ title: "Selamat Datang di Wim Style"
 date: "2026-08-18"
 category: "Perkenalan"
 excerpt: "Wim Style — Deskripsi meta Wim Style."
+meta_title: "Selamat Datang di Wim Style"
+meta_description: "Selamat datang di Wim Style, portal berbahasa Indonesia yang membahas fashion & gaya hidup stylish. Jelajahi artikel terbaik dan temukan informasi menarik"
 tags: ["perkenalan"]
 ---
 

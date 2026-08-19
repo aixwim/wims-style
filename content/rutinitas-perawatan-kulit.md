@@ -3,6 +3,8 @@ title: "Rutinitas Perawatan Kulit Dasar untuk Kulit Sehat"
 date: "2026-08-18"
 category: "Style"
 excerpt: "Panduan rutinitas perawatan kulit dasar: membersihkan, melembapkan, dan melindungi dengan sun protection sebagai langkah utama kulit sehat."
+meta_title: "Rutinitas Perawatan Kulit Dasar untuk Sehat"
+meta_description: "Bangun rutinitas perawatan kulit dasar: membersihkan, melembapkan, dan melindungi dengan sun protection agar kulit tetap sehat dan bercahaya."
 tags: ["perawatan kulit", "skincare", "kesehatan", "rutinitas"]
 ---
 

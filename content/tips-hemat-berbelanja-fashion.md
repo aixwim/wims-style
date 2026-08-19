@@ -3,6 +3,8 @@ title: "Tips Hemat Berbelanja Fashion tanpa Mengorbankan Gaya"
 date: "2026-08-19"
 category: "Style"
 excerpt: "Strategi berbelanja fashion secara hemat dan cerdas, mulai dari memanfaatkan promo, memilih item serbaguna, hingga merawat pakaian agar tahan lama."
+meta_title: "Tips Hemat Berbelanja Fashion tanpa Gaya Berkurang"
+meta_description: "Strategi berbelanja fashion hemat dan cerdas: manfaatkan promo, pilih item serbaguna, dan rawat pakaian agar tahan lama tanpa mengorbankan gaya."
 tags: ["belanja hemat", "fashion", "tips", "gaya hidup"]
 ---
 

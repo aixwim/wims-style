@@ -3,6 +3,8 @@ title: "Wardrobe Capsule: Konsep Lemari Minimalis yang Praktis"
 date: "2026-08-18"
 category: "Style"
 excerpt: "Mengenal konsep wardrobe capsule, cara membangunnya, dan manfaatnya untuk menghemat waktu, uang, serta menciptakan gaya yang konsisten dan rapi."
+meta_title: "Wardrobe Capsule: Lemari Minimalis Praktis"
+meta_description: "Kenali konsep wardrobe capsule, cara membangun lemari minimalis, dan manfaatnya menghemat waktu serta uang sekaligus menciptakan gaya konsisten."
 tags: ["wardrobe capsule", "fashion", "minimalis", "gaya hidup"]
 ---
 

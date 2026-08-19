@@ -3,6 +3,8 @@ title: "Cara Memilih Bahan Pakaian yang Nyaman Dipakai"
 date: "2026-08-19"
 category: "Style"
 excerpt: "Panduan memilih bahan pakaian yang nyaman dan menyerap keringat sesuai cuaca tropis, agar aktivitas sehari-hari terasa ringan dan bebas gerak."
+meta_title: "Cara Memilih Bahan Pakaian yang Nyaman"
+meta_description: "Kenali bahan pakaian yang adem, menyerap keringat, dan mudah dirawat untuk cuaca tropis agar aktivitas sehari-hari terasa ringan dan bebas gerak."
 tags: ["bahan pakaian", "kenyamanan", "fashion", "tips"]
 ---
 

@@ -3,6 +3,8 @@ title: "Mix and Match Baju Kerja: Paduan Rapi tanpa Ribet"
 date: "2026-08-19"
 category: "Style"
 excerpt: "Padukan pakaian kerja dengan trik mix and match yang praktis untuk tampilan rapi dan profesional, tanpa perlu membeli item baru setiap minggu."
+meta_title: "Mix and Match Baju Kerja yang Praktis"
+meta_description: "Trik mix and match baju kerja agar tampilan rapi dan profesional tanpa ribet. Pelajari item serbaguna, paduan warna, dan tampilan konsisten setiap hari."
 tags: ["baju kerja", "mix and match", "fashion", "gaya"]
 ---
 

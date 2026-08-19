@@ -3,6 +3,8 @@ title: "Streetwear Indonesia: Perkembangan dan Karakternya"
 date: "2026-08-18"
 category: "Style"
 excerpt: "Mengenal perkembangan streetwear Indonesia, dari pengaruh global hingga sentuhan lokal, serta cara menata gaya streetwear yang otentik sehari-hari."
+meta_title: "Streetwear Indonesia: Perkembangan dan Karakter"
+meta_description: "Mengenal perkembangan streetwear Indonesia, dari pengaruh global hingga sentuhan lokal, plus cara menata gaya streetwear otentik sehari-hari."
 tags: ["streetwear", "fashion lokal", "gaya", "Indonesia"]
 ---
 

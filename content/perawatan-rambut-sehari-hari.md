@@ -3,6 +3,8 @@ title: "Perawatan Rambut Sehari-hari agar Sehat dan Berkilau"
 date: "2026-08-19"
 category: "Style"
 excerpt: "Langkah sederhana perawatan rambut sehari-hari untuk menjaga kesehatan, kekuatan, dan kilau alami, mulai dari keramas hingga kebiasaan kecil yang sering terlupakan."
+meta_title: "Perawatan Rambut Sehari-hari agar Sehat"
+meta_description: "Langkah sederhana perawatan rambut sehari-hari: keramas yang benar, kondisioner, dan kebiasaan kecil yang menjaga rambut tetap sehat dan berkilau."
 tags: ["perawatan rambut", "rambut", "kesehatan", "gaya"]
 ---
 

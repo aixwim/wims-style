@@ -3,6 +3,8 @@ title: "Gaya Busana untuk Berbagai Acara: Padanan Tepat setiap Momen"
 date: "2026-08-19"
 category: "Style"
 excerpt: "Panduan memilih gaya busana untuk berbagai acara, dari formal hingga santai, agar setiap momen dilewati dengan percaya diri dan tetap nyaman."
+meta_title: "Gaya Busana untuk Berbagai Acara dan Momen"
+meta_description: "Panduan memilih gaya busana untuk berbagai acara, dari formal hingga santai, agar setiap momen dilewati dengan percaya diri dan tetap nyaman dipakai."
 tags: ["gaya busana", "outfit", "fashion", "acara"]
 ---
 
