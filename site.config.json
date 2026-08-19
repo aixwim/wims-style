@@ -10,7 +10,6 @@
   "category": "style",
   "categoryLabel": "Style",
   "parent": "wims",
-  "children": [],
   "related": [
     "wims-selebritas",
     "wims-living"
@@ -22,5 +21,6 @@
   "giscus": {
     "repoId": "R_kgDOT8FVlQ",
     "categoryId": "DIC_kwDOT8FVlc4DDpVs"
-  }
+  },
+  "googleVerification": "dx63Ebn63PlvT6120AIhc7cyImZlvvYthTYPurZA_C8"
 }
